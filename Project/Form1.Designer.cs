@@ -1,4 +1,4 @@
-﻿namespace WindowsFormsApp14
+﻿namespace Project
 {
     partial class Form1
     {
